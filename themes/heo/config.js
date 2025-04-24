@@ -50,11 +50,11 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-bilibili',
-  HEO_INFO_CARD_URL2: 'https://space.bilibili.com/332437959',
-  HEO_INFO_CARD_ICON2: 'fab fa-youtube',
-  HEO_INFO_CARD_URL3: 'https://www.youtube.com/@Yitalks',
+  HEO_INFO_CARD_URL1: 'https://space.bilibili.com/332437959',
+  HEO_INFO_CARD_ICON1: 'fa-brands fa-bilibili',
+  HEO_INFO_CARD_URL2: 'https://www.youtube.com/@Yitalks',
+  HEO_INFO_CARD_ICON2: 'fa-brands fa-youtube',
+  HEO_INFO_CARD_URL3: 'https://qyj.xyz',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
